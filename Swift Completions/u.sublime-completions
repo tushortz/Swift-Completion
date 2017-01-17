@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"UInt", "UInt16", "UInt32", "UInt64", "UInt8", "UTF16", "UTF16Index", "UTF32", "UTF8", "UTF8Index", "UnfoldSequence", "UnicodeCodec", "UnicodeDecodingResult", "UnicodeScalar", "UnicodeScalarIndex", "UnicodeScalarLiteralType", "Unmanaged", "UnsafeBufferPointer", "UnsafeBufferPointerIterator", "UnsafeMutableBufferPointer", "UnsafeMutablePointer", "UnsafeMutableRawBufferPointer", "UnsafeMutableRawPointer", "UnsafePointer", "UnsafeRawBufferPointer", "UnsafeRawPointer", "UnsignedInteger", "uInt", "ulp", "ulpOfOne", "uncheckedBounds", "underestimatedCount", "unicodeScalar", "unicodeScalarLiteral", "unicodeScalars", "union", "unlabeledChildren", "unsafeArgv", "unsafeBitCast", "unsafeBufferObject", "unsafeDowncast", "unsafelyUnwrapped", "up", "upTo", "update", "updateValue", "upper", "upperBound", "uppercase", "uppercased", "url", "usedEncoding", "usedLength", "using", "utf16", "utf16CodeUnits", "utf16CodeUnitsNoCopy", "utf8", "utf8CString", "utf8CodeUnitCount", "utf8Start", "utf8String"
+	]
+}

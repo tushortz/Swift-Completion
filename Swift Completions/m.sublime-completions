@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"ManagedBuffer", "ManagedBufferPointer", "MemoryLayout", "Mirror", "MirrorPath", "MutableBidirectionalSlice", "MutableCollection", "MutableIndexable", "MutableRandomAccessSlice", "MutableRangeReplaceableBidirectionalSlice", "MutableRangeReplaceableRandomAccessSlice", "MutableRangeReplaceableSlice", "MutableSlice", "magnitudeOf", "makeIterator", "makingHeaderWith", "map", "matchesInto", "max", "maxDepth", "maxItems", "maxLength", "maxSplits", "maximum", "maximumLengthOfBytes", "maximumMagnitude", "min", "minimum", "minimumCapacity", "minimumMagnitude", "minus", "move", "moveAssign", "moveInitialize", "moveInitializeMemory", "multiplied", "multiply", "multiplyWithOverflow", "mutating"
+	]
+}

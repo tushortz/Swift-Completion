@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"LazyBidirectionalCollection", "LazyCollection", "LazyCollectionProtocol", "LazyFilterBidirectionalCollection", "LazyFilterCollection", "LazyFilterIndex", "LazyFilterIterator", "LazyFilterSequence", "LazyMapBidirectionalCollection", "LazyMapCollection", "LazyMapIterator", "LazyMapRandomAccessCollection", "LazyMapSequence", "LazyRandomAccessCollection", "LazySequence", "LazySequenceProtocol", "LosslessStringConvertible", "last", "lazy", "leadSurrogate", "leastNonzeroMagnitude", "leastNormalMagnitude", "length", "lengthOfBytes", "lexicographicallyPrecedes", "limitedBy", "line", "lineRange", "linguisticTags", "littleEndian", "load", "locale", "localizedCapitalized", "localizedCaseInsensitiveCompare", "localizedCaseInsensitiveContains", "localizedCompare", "localizedDescription", "localizedLowercase", "localizedName", "localizedStandardCompare", "localizedStandardContains", "localizedStandardRange", "localizedStringWithFormat", "localizedUppercase", "lower", "lowerBound", "lowercased"
+	]
+}

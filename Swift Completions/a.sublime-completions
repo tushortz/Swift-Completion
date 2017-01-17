@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"AbsoluteValuable", "AnyBidirectionalCollection", "AnyCollection", "AnyHashable", "AnyIndex", "AnyIterator", "AnyObject", "AnyRandomAccessCollection", "AnySequence", "Array", "ArraySlice", "AutoreleasingUnsafeMutablePointer", "abs", "add", "addProduct", "addWithOverflow", "adding", "addingPercentEncoding", "addingPercentEscapes", "addingProduct", "advanced", "after", "alignedTo", "alignment", "allZeros", "allocate", "allowLossyConversion", "ancestorRepresentation", "append", "appending", "appendingFormat", "applyingTransform", "argc", "arguments", "arrayLiteral", "as", "asASCII", "ascii", "assert", "assertionFailure", "assign", "assumingMemoryBound", "at", "atomically", "attributedString", "autorelease", "availableStringEncodings", "awayFromZero"
+	]
+}

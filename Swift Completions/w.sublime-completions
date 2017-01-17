@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"where", "whereSeparator", "width", "with", "withAllowedCharacters", "withCString", "withExtendedLifetime", "withMemoryRebound", "withMutableCharacters", "withPad", "withUTF8Buffer", "withUnsafeBufferPointer", "withUnsafeBytes", "withUnsafeMutableBufferPointer", "withUnsafeMutableBytes", "withUnsafeMutablePointer", "withUnsafeMutablePointerToElements", "withUnsafeMutablePointerToHeader", "withUnsafeMutablePointers", "withUnsafePointer", "withVaList", "write"
+	]
+}

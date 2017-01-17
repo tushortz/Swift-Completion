@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"RandomAccessCollection", "RandomAccessIndexable", "RandomAccessSlice", "Range", "RangeReplaceableBidirectionalSlice", "RangeReplaceableCollection", "RangeReplaceableIndexable", "RangeReplaceableRandomAccessSlice", "RangeReplaceableSlice", "RawExponent", "RawRepresentable", "RawSignificand", "RawValue", "Repeated", "ReversedCollection", "ReversedIndex", "ReversedRandomAccessCollection", "ReversedRandomAccessIndex", "radix", "range", "rangeOfCharacter", "rangeOfComposedCharacterSequence", "rangeOfComposedCharacterSequences", "rawValue", "readLine", "rectangle", "reduce", "reflecting", "release", "remainder", "remainderWithOverflow", "remaining", "remove", "removeAll", "removeFirst", "removeLast", "removeSubrange", "removeValue", "removingPercentEncoding", "repairingIllFormedSequences", "repairingInvalidCodeUnits", "repeatElement", "repeatedValue", "repeating", "replaceSubrange", "replacingCharacters", "replacingOccurrences", "replacingPercentEscapes", "reserveCapacity", "retain", "reverse", "reversed", "round", "rounded"
+	]
+}

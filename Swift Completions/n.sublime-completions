@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"Never", "name", "nan", "negate", "negated", "negativeInfinity", "negativeNormal", "negativeSubnormal", "negativeZero", "next", "nextDown", "nextUp", "nilLiteral", "none", "numericCast"
+	]
+}

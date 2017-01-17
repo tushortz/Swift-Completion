@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"DefaultBidirectionalIndices", "DefaultIndices", "DefaultRandomAccessIndices", "Dictionary", "DictionaryIndex", "DictionaryIterator", "DictionaryLiteral", "Distance", "Double", "data", "deallocate", "debugDescription", "debugPrint", "decode", "decodeCString", "decodedAs", "decomposedStringWithCanonicalMapping", "decomposedStringWithCompatibilityMapping", "defaultCStringEncoding", "deinitialize", "descendant", "describing", "description", "dictionaryLiteral", "displayStyle", "distance", "divide", "divideWithOverflow", "divided", "dividingBy", "double", "down", "dropFirst", "dropLast", "dump"
+	]
+}

@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"Sequence", "Set", "SetAlgebra", "SetIndex", "SetIterator", "SignedInteger", "SignedNumber", "Slice", "StaticString", "Stream1", "Stream2", "Stride", "StrideThrough", "StrideThroughIterator", "StrideTo", "StrideToIterator", "Strideable", "String", "StringLiteralType", "SubSequence", "scalarValue", "scheme", "separatedBy", "separator", "sequence", "sign", "signOf", "signaling", "signalingNaN", "significand", "significandBitCount", "significandBitPattern", "significandWidth", "size", "smallestEncoding", "some", "sort", "sorted", "sound", "split", "sprite", "squareRoot", "start", "startIndex", "startingAt", "starts", "state", "stoppingOnError", "storeBytes", "stride", "stringInterpolation", "stringInterpolationSegment", "stringLiteral", "strippingNewline", "subjectType", "subscript", "substring", "subtract", "subtractWithOverflow", "subtracting", "successor", "suffix", "superclassMirror", "swap", "symmetricDifference"
+	]
+}

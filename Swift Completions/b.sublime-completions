@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"BidirectionalCollection", "BidirectionalIndexable", "BidirectionalSlice", "BinaryFloatingPoint", "BitwiseOperations", "Bool", "BooleanLiteralType", "base", "baseAddress", "before", "belowOrEqualTo", "bezierPath", "bigEndian", "binade", "bindMemory", "bitPattern", "bool", "booleanLiteral", "bounds", "buffer", "bufferClass", "by", "byteSwapped", "bytes", "bytesNoCopy"
+	]
+}

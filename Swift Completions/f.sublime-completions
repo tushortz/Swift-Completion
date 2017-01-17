@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"FlattenBidirectionalCollection", "FlattenBidirectionalCollectionIndex", "FlattenCollection", "FlattenCollectionIndex", "FlattenIterator", "FlattenSequence", "Float", "Float80", "FloatLiteralType", "FloatingPoint", "FloatingPointClassification", "FloatingPointRoundingRule", "FloatingPointSign", "fastestEncoding", "fatalError", "file", "filter", "filterTypes", "first", "flatMap", "float", "floatLiteral", "floatingPointClass", "folding", "for", "forEach", "forKey", "formIndex", "formIntersection", "formRemainder", "formSquareRoot", "formSymmetricDifference", "formTruncatingRemainder", "formUnion", "format", "freeWhenDone", "from", "fromByteOffset", "fromOpaque"
+	]
+}

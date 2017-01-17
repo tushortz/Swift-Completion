@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"PlaygroundQuickLook", "padding", "paragraphRange", "partition", "passRetained", "passUnretained", "pi", "plus", "point", "pointee", "popFirst", "popLast", "positiveInfinity", "positiveNormal", "positiveSubnormal", "positiveZero", "precomposedStringWithCanonicalMapping", "precomposedStringWithCompatibilityMapping", "precondition", "preconditionFailure", "predecessor", "prefix", "print", "propertyList", "propertyListFromStringsFileFormat"
+	]
+}

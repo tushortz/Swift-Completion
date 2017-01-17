@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"Element", "Elements", "EmptyCollection", "EmptyIterator", "EncodingConversionOptions", "EnumeratedIterator", "EnumeratedSequence", "EnumerationOptions", "Equatable", "Error", "Exponent", "ExpressibleByArrayLiteral", "ExpressibleByBooleanLiteral", "ExpressibleByDictionaryLiteral", "ExpressibleByExtendedGraphemeClusterLiteral", "ExpressibleByFloatLiteral", "ExpressibleByIntegerLiteral", "ExpressibleByNilLiteral", "ExpressibleByStringInterpolation", "ExpressibleByStringLiteral", "ExpressibleByUnicodeScalarLiteral", "ExtendedGraphemeClusterLiteralType", "element", "elements", "elementsEqual", "emptyInput", "encode", "encoding", "end", "endIndex", "enumerateLines", "enumerateLinguisticTags", "enumerateSubstrings", "enumerated", "error", "escaped", "exactly", "exponent", "exponentBitCount", "exponentBitPattern", "extendedGraphemeClusterLiteral"
+	]
+}

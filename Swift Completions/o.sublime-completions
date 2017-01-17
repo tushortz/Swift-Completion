@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"ObjectIdentifier", "OpaquePointer", "OptionSet", "Optional", "of", "ofValue", "offset", "offsetBy", "omittingEmptySubsequences", "options", "orthography", "overlaps"
+	]
+}

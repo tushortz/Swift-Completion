@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"CVaListPointer", "CVarArg", "Character", "Child", "Children", "ClosedRange", "ClosedRangeIndex", "ClosedRangeIterator", "CodeUnit", "Collection", "CollectionOfOne", "CommandLine", "Comparable", "CompareOptions", "ContiguousArray", "CountableClosedRange", "CountableRange", "CustomDebugStringConvertible", "CustomLeafReflectable", "CustomPlaygroundQuickLookable", "CustomReflectable", "CustomStringConvertible", "cString", "canBeConverted", "capacity", "capitalized", "caseInsensitiveCompare", "caseSensitive", "characters", "children", "clamped", "color", "commonPrefix", "compare", "completePath", "components", "contains", "contentsEnd", "contentsOf", "contentsOfFile", "copyBytes", "count", "create", "customMirror", "customPlaygroundQuickLook"
+	]
+}

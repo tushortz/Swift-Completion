@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"ImplicitlyUnwrappedOptional", "Index", "IndexDistance", "Indexable", "IndexableBase", "IndexingIterator", "Indices", "Int", "Int16", "Int32", "Int64", "Int8", "Integer", "IntegerArithmetic", "IntegerLiteralType", "Iterator", "IteratorOverOne", "IteratorProtocol", "IteratorSequence", "image", "in", "indent", "index", "indices", "infinity", "init", "initialize", "initializeMemory", "insert", "int", "integerLiteral", "intersection", "into", "invoking", "isASCII", "isCanonical", "isContinuation", "isDisjoint", "isEmpty", "isEqual", "isFinite", "isInfinite", "isKnownUniquelyReferenced", "isLeadSurrogate", "isLess", "isLessThanOrEqualTo", "isNaN", "isNormal", "isSignalingNaN", "isStrictSubset", "isStrictSuperset", "isSubnormal", "isSubset", "isSuperset", "isTotallyOrdered", "isTrailSurrogate", "isUniqueReference", "isZero"
+	]
+}

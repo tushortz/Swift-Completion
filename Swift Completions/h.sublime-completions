@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"Hashable", "hasPointerRepresentation", "hasPrefix", "hasSuffix", "hash", "hashValue", "header"
+	]
+}

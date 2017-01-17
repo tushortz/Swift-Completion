@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"Key", "keepingCapacity", "key", "keys"
+	]
+}

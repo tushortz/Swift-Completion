@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"TextOutputStream", "TextOutputStreamable", "takeRetainedValue", "takeUnretainedValue", "terminator", "text", "than", "through", "to", "toByteOffset", "toFile", "toIntMax", "toLength", "toNearestOrAwayFromZero", "toNearestOrEven", "toOpaque", "toUIntMax", "tokenRanges", "towardZero", "trailSurrogate", "transcode", "transcodedLength", "trimmingCharacters", "truncatingBitPattern", "truncatingRemainder"
+	]
+}

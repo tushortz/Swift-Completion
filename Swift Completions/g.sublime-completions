@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.swift",
+	"completions":
+	[	
+		"getBytes", "getCString", "getLineStart", "getParagraphStart", "getVaList", "greatestFiniteMagnitude"
+	]
+}
